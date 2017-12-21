@@ -11,7 +11,8 @@
   <name>bos_management</name>
   <description>核心业务管理平台</description>
   
-  
+  <!-- 权限控制 框架 -->
+  <!-- 权限控制 框架 -->
   <build>
   	<plugins>
   		<plugin>
